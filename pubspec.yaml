@@ -1,6 +1,6 @@
 name: tim_ui_kit_push_plugin
 description: The native notification push extension for Tencent Cloud Chat, support Apple APNS/ Google Firebase Cloud Messaging/ HUAWEI/ XiaoMi/ OPPO/ Vivo platform.
-version: 3.1.2+1
+version: 3.1.3
 homepage: "https://www.tencentcloud.com/products/im?from=pub"
 
 environment:
@@ -15,7 +15,7 @@ dependencies:
   tencent_flutter_apns: ^2.0.0
   huawei_push: ^6.5.0+300
   plain_notification_token_for_us: ^1.0.0+1
-  tencent_cloud_chat_sdk: ^6.0.0
+  tencent_cloud_chat_sdk: ^8.0.5896
 
 dev_dependencies:
   flutter_test:
